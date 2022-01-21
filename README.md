@@ -4,3 +4,6 @@ git init
 git remote add origin git@github.com:loic-cotty/blog-api.git
 git add .
 git commit -m "first commit"
+
+composer require profiler --dev
+
