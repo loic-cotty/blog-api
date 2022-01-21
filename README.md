@@ -13,3 +13,5 @@ composer require logger
 
 symfony composer req maker --dev
 
+symfony composer req annotations
+
