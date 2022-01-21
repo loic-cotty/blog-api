@@ -11,3 +11,5 @@ composer require api
 
 composer require logger
 
+symfony composer req maker --dev
+
