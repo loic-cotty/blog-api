@@ -7,3 +7,7 @@ git commit -m "first commit"
 
 composer require profiler --dev
 
+composer require api
+
+composer require logger
+
